@@ -1,1 +1,6 @@
-# SC_302_Documentacion_MN_JeffreyQ9
+# SC\_302\_Documentacion\_MN\_JeffreyQ9
+
+
+
+laboratorio 1
+
